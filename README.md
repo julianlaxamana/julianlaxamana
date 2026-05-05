@@ -1,4 +1,7 @@
-## Hi there 👋
+## hi! im julian. 🐧
+My name is Julian and I'm currently studying Computer Science @ UCLA.
+
+I'm interested in robotics, embedded systems, full-stack swe, and game dev.
 
 <!--
 **julianlaxamana/julianlaxamana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
